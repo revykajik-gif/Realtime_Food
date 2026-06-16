@@ -86,6 +86,3 @@ npm install
 npm run dev
 ```
 
-## Interview Explanation
-
-The project uses MVC plus a service layer. Controllers stay thin, services contain business decisions, Prisma models show relational database design, and Socket.IO is used only for real-time moments: new orders, rider assignments, and status updates.
